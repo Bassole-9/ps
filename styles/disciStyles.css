@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+
+}
+
+header{
+
+    height: 5rem;
+    width: 100%;
+    background-color: maroon;
+}
+
+header nav{
+    float: right;
+}
+
+header nav ul{
+    display: flex;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+
+header nav ul li{
+    margin-right: 2rem;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.image{
+    height: 20rem;
+    width: 20rem;
+    border: 1px solid black;
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+
+.p{
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+.s{
+    margin-top: 4rem;
+    margin-left: 4rem;
+
+}
+
+.solu1{
+    margin-top: 2rem;
+}
+
+
